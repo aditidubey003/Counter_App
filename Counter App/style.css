@@ -80,6 +80,7 @@ body{
 	font-weight: bold;
 	text-align: center;
 	background-color: rgb(50, 127, 50);
+	color: #fff;
 	margin: 50px auto;
 	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
@@ -88,30 +89,47 @@ body{
 	line-height: 120px;
 	border-radius: 8px;
     position: absolute;
-	left: 600px;
-	top: 350px;
+	left: 450px;
+	top: 300px;
 	border: 3px solid black;
 	font-size: 100px;
 	font-weight: bold;
 	text-align: center;
 	background-color: rgb(59, 217, 59);
+	color: #fff;
 	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 .dec{
 	width: 120px;
 	line-height: 120px;
 	position: absolute;
-	right: 600px;
-	top: 350px;
+	right: 450px;
+	top: 300px;
 	border-radius: 8px;
 	border: 3px solid black;
 	font-size: 100px;
 	font-weight: bold;
 	text-align: center;
 	background-color: rgb(59, 217, 59);
+	color: #fff;
 	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 
+.reset{
+	width: 120px;
+
+	position: absolute;
+	left: 700px;
+	top: 100px;
+	border-radius: 8px;
+	border: 3px solid black;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	background-color: rgb(59, 217, 59);
+	color: #fff;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
 button:hover{
 	background-color: rgb(46, 160, 46);
 }
